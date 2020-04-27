@@ -1,1 +1,11 @@
 /* Put any user-specific styles here */
+body{
+    background-color: #020b19;
+    color:white;
+    font-size: 16px;
+    
+}
+h1 {
+    font-size: 24px;
+    font-family: 'Roboto';
+}
