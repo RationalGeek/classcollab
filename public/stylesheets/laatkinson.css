@@ -1,1 +1,11 @@
 /* Put any user-specific styles here */
+
+body {
+  background-color: DarkKhaki;
+  color: DarkViolet;
+  padding-left: 500px;
+  padding-right: 500px;
+  padding-top: 40px;
+  font-size: 38px;
+  font-family: cursive;
+}
