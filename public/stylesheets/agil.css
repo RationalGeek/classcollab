@@ -1,1 +1,10 @@
 /* Put any user-specific styles here */
+body {
+    background-color: purple;
+    color: orchid;
+ 
+}
+
+p {
+    color: blue;
+}
