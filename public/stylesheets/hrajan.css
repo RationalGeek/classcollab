@@ -1,1 +1,11 @@
 /* Put any user-specific styles here */
+
+h1{
+  color: #2596be;
+  font-family: "Lucida Handwriting", "Georgia";
+}
+
+p{
+  color: #e28743;
+  font-family: "Georgia";
+}
